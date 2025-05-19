@@ -14,6 +14,10 @@ This project uses two ESP32-based controllers to count marbles as they drop into
 - 3-digit 7-segment display (common cathode)
 - Battery Power Supply
 
+## Project Setup
+
+![Marble Counter Setup](Asset/Setup-Photo.jpg)
+
 ## Wiring Instructions
 
 ### Sender Unit (Marble Detector)
